@@ -89,7 +89,7 @@ const questions = [
   {
     title: 'Какой хук позволяет использовать контекст в компоненте?',
     variants: ['useState', 'useEffect', 'useContext'],
-    correct: 3,
+    correct: 2,
   },
   {
     title: 'Как создать копию объекта в JavaScript?',
